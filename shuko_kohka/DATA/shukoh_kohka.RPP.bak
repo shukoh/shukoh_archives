@@ -694,7 +694,7 @@
       LENGTH 7.200998
       SNAPOFFS 0.000000
       LOOP 1
-      SEL 1
+      SEL 0
       FADEIN 1 0.010000 0.000000
       FADEOUT 1 0.010000 0.000000
       MUTE 0
@@ -1928,7 +1928,7 @@
     ISBUS 0
     BUSCOMP 0
     SHOWINMIX 1
-    SEL 0
+    SEL 1
     REC 0 1 0 0
     TRACKHEIGHT 0
     NCHAN 2
@@ -1960,24 +1960,6 @@
         AAAAAAAAAABSuJ4+SOH6PgAAAAAAAIA/AACAPwAAgD8AAIA/AAAAAA==
       >
     >
-    <ITEM
-      POSITION 2.307692
-      LENGTH 276.821125
-      SNAPOFFS 0.000000
-      LOOP 1
-      SEL 0
-      FADEIN 1 0.010000 0.000000
-      FADEOUT 1 0.010000 0.000000
-      MUTE 0
-      NAME "26-E_Guitar1-03.wav"
-      VOLPAN 1.000000 0.000000 1.000000 -1.000000
-      SOFFS 0.000000
-      PLAYRATE 1.000000 1 0.000000
-      CHANMODE 0
-      <SOURCE WAVE
-        FILE "26-E_Guitar1-03.wav"
-      >
-    >
   >
   <TRACK
     NAME "E.Guitar2"
@@ -1987,7 +1969,7 @@
     ISBUS 0
     BUSCOMP 0
     SHOWINMIX 1
-    SEL 1
+    SEL 0
     REC 0 1 0 0
     TRACKHEIGHT 0
     NCHAN 2
